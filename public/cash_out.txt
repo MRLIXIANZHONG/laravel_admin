@@ -1,0 +1,1 @@
+http://payjkm.bccoo.cn/payway/wxorderpay/enterprisePay.aspx?openid=&infoID=5&amount=40&desc=提现&paytype=404&siteID=1&UserID=1&sign=cb175c85f0624e1b83b517212ec2313a
